@@ -3,6 +3,7 @@ Swiggy Restaurant Data Analysis
 
 
 2. Short Description / Purpose
+
 A SQL-based data analysis project focused on analyzing Swiggy restaurant data to understand restaurant distribution, ratings, pricing, cuisines, cities, and restaurant chain presence across India.
 The project uses PostgreSQL for data cleaning, transformation, and exploratory analysis.
 
